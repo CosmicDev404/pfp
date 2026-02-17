@@ -1,2 +1,3 @@
-## Integration
-This is just an integration asset for The Picnic webpage 🌲
+## Integration Asset
+
+This is an integration asset for social links
